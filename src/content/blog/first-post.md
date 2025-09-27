@@ -2,7 +2,7 @@
 title: "Jake and Snoop"
 description: "Our first official pet sitting gig"
 pubDate: "January 2008"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/img/jake-and-snoop-1.jpg"
 ---
 
 Jake and Snoop - an andorable, if oddly matched, pair of sweet pups. We had the pleasure of watching for ~2 weeks in their goreous Mendham, NJ home in what we belive to have been our first actual pet sitting gig, as a couple, back in 2008.
