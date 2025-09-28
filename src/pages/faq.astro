@@ -1,17 +1,34 @@
 ---
 import Layout from '../layouts/BlogPost.astro';
+import { Accordion, AccordionItem } from 'accessible-astro-components'
 ---
 
 <Layout
-	title="About Jerin Sits"
-	description="Jerin Sits is a pet sitting service by Jeff and Erin."
+	title="Frequently Asked Questions"
+	description="Frequently asked questions about Jerin Sits"
 >
+
+    <Accordion>
+    <AccordionItem
+        name="astro"
+        title="What is Astro?"
+        open
+    >
+        <p>Astro is an all-in-one web framework for building fast, content-focused websites.</p>
+    </AccordionItem>
+    <AccordionItem
+        name="astro"
+        title="Why Astro?"
+    >
+        <p>Ship less JavaScript to your users while maintaining a modern developer experience.</p>
+    </AccordionItem>
+    </Accordion>
 	<p>
-		Jerin is a portmanteau of Jeff and Erin.  We don't love it, and don't really use it, but I guess it's kinda catchy.  Credit to our old roomate Kyle for first usage.
+		How much do you charge?
 	</p>
 
 	<p>
-    	We've been sitting on/off for 20+ years.  Our first gig was in Mendham, NJ, where we enjoyed getting to know <a href="/blog/jake-and-snoop/">Jake and Snoop</a>, a golden retriever and basset hound pair. Since then we've house / pet sat for family and friends all over the US.
+    	Who are you, anyway? 
 	</p>
 
 	<p>
@@ -24,7 +41,7 @@ import Layout from '../layouts/BlogPost.astro';
     
 	<p>
 		Heading out town, but can't bring your four legged bestie?  We'd love to keep them company (and water your plants, take out the trash, and so on).
-	</p>
+	</p>a
 
 	<p>
 		<a href="https://forms.gle/znvkBdMJNMRyrGaf6" target="_new">Give us a shout!</a>
