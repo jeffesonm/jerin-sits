@@ -1,14 +1,23 @@
+
 ---
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { Accordion, AccordionItem } from 'accessible-astro-components'
 ---
 
-<Layout
-	title="Frequently Asked Questions"
-	description="Frequently asked questions about Jerin Sits"
-		pubDate={new Date('August 25 2021')}
+---
 
->
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Frequently Asked Questions</h1>
 
     <Accordion>
 
@@ -45,9 +54,8 @@ import { Accordion, AccordionItem } from 'accessible-astro-components'
 
 
    </Accordion>
-
-	<p>
-		
-	</p>
-
-</Layout>
+   
+		</main>
+		<Footer />
+	</body>
+</html>
