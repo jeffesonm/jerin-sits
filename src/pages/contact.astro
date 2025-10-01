@@ -1,0 +1,30 @@
+
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { Accordion, AccordionItem } from 'accessible-astro-components'
+---
+
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Contact Us</h1>
+
+	<p>
+		<p>The internet strongly recommended we don't directly post our contact info, so kindly request you inquire via <a href="https://forms.gle/znvkBdMJNMRyrGaf6" target="_new">this Google form</a> and we'll reach out asap.</p>
+	</p>
+
+
+		</main>
+		<Footer />
+	</body>
+</html>
