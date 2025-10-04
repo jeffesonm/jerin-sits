@@ -23,3 +23,7 @@ heroImage: "/img/stripes1.jpg"
 <p>
     It was hard to leave these two at the end of our stay, but we were grateful for the opportunity to love on them while their family was away. 
 </p>
+
+
+
+![Another local image](../src/images/erin-and-boots.png)
