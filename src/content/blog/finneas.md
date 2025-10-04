@@ -18,5 +18,5 @@ heroImage: "/img/finneas-1.jpg"
 </p>
 
 <p>
-    More than anything, Finneas loved his cat treats, and we were happy to oblige. 
+    Finneas was also part retriever and enjoyed playing fetch in the living room with his little stuffed mouse.  More than anything, he loved cat treats, and we were happy to oblige. 
 </p>
