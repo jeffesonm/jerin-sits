@@ -26,4 +26,4 @@ heroImage: "/img/stripes1.jpg"
 
 
 
-![Another local image](../src/images/erin-and-boots.png)
+![Another local image](src/images/erin-and-boots.png)
