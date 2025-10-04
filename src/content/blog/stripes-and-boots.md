@@ -2,7 +2,7 @@
 title: "Stripes and Boots"
 description: "A motley crew, down by the water"
 pubDate: "August 2025"
-heroImage: "/img/stripes1.jpg"
+heroImage: "../../src/images/erin-and-boots.png"
 ---
 <p>
     Stripes and Boots - a brother-sister pair of adorable and playful 10-week-old kittens. We watched these two cuties for 11 days in their home in Highland Park, NJ. 
@@ -15,6 +15,10 @@ heroImage: "/img/stripes1.jpg"
 <p>
     Most of all, they both loved to play. They chased one another around the house for hours, in and out of the cardboard cat “condo” complex Jeff constructed for them. We introduced them to the joys of pipecleaners, string and crinkly brown paper, and they never looked back.
 </p>
+    <div class="pic">
+        <img src="/img/cat-condo.png">
+        <div class="caption">Cat condo.</div>
+    </div>
 
 <p>
     Once they were all tuckered out, Boots and Stripes were always eager for a good snuggle session. Stripes preferred to curl up into an adorable little cat ball next to Jeff's face, while Boots preferred to sprawl out on the couch next to Erin. 
@@ -25,5 +29,9 @@ heroImage: "/img/stripes1.jpg"
 </p>
 
 
-
-![Another local image](../../images/erin-and-boots.png)
+<div class="gallery">
+    <div class="pic">
+        <img src="/img/stripes2.png">
+        <h5>Just look at those beans.</h5>
+    </div>
+</div>

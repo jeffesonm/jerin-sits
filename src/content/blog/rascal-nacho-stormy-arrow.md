@@ -14,7 +14,7 @@ heroImage: "/img/jeff-rascal-arrow.jpg"
 </p>
 
 <p>
-    Nacho, a mut rescued from a highway median, is about the sweetest, chillest dog you will meet. He would also love to sit on your lap, if you’d let him, but he usually made do with his head in your lap or curled up on the floor next to the couch. 
+    Nacho, a mutt rescued from a highway median, is about the sweetest, chillest dog you will meet. He would also love to sit on your lap, if you’d let him, but he usually made do with his head in your lap or curled up on the floor next to the couch. 
 </p>
 
 <p>
@@ -32,3 +32,14 @@ heroImage: "/img/jeff-rascal-arrow.jpg"
 <p>
     We had a blast watching this crew and enjoyed getting to know each of their unique personalities and quirks. 
 </p>
+
+<div class="gallery">
+    <div class="pic">
+        <img src="/img/erin-nacho-rascal.png">
+        <h5>Pet sitting?  More like sat-upon.</h5>
+    </div>
+    <div class="pic">
+        <img src="/img/stormy.png">
+        <h5>With her jet black coat and constant movement, Stormy is impossible to photograph.</h5>
+    </div>
+</div>
