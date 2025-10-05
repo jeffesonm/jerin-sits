@@ -20,3 +20,9 @@ heroImage: "/img/finneas-1.jpg"
 <p>
     Finneas was also part retriever and enjoyed playing fetch in the living room with his little stuffed mouse.  More than anything, he loved cat treats, and we were happy to oblige. 
 </p>
+
+
+<div style="text-align:center; padding:0px 20px;">
+    <img src="/img/finneas2.png">
+    <h5>Finneas takes a break from fetch.</h5>
+</div>

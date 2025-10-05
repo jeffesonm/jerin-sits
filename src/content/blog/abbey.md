@@ -20,3 +20,8 @@ heroImage: "/img/abby1.JPG"
 <p>
     While not the most snuggly cat, Abbey was pleased to know you understood how lovely she was. She’d occasionally allow pets, but never when she was in her cat tree, gazing down upon her domain. Up there, she preferred to be left alone. Like the queen she is.
 </p>
+
+<div style="text-align:center; padding:0px 20px;">
+    <img src="/img/abby3.png">
+    <h5>Abbey on her throne - petting strictly prohibited.</h5>
+</div>

@@ -21,25 +21,32 @@ heroImage: "/img/jeff-rascal-arrow.jpg"
     Nacho and Rascal were the perfect pair. They loved to wrestle and chase one another around the yard, and were always eager to talk a long walk around the neighborhood together.
 </p>
 
+<div style="text-align:center; padding:0px 20px;">
+    <img src="/img/erin-nacho-rascal.png">
+    <h5>Rascal misunderstands "pet sitting".</h5>
+</div>
+
 <p>
     Stormy, the friendliest long-haired black cat, was a serious snuggler. She spent most of her days in the finished basement, emerging from hiding as soon as we came downstairs to our bedroom suite. She was always eager for pets though her exciement would often bubble over into aggressive bitey time. She spent the nights curled up at the foot of our bed.
 </p>
 
+<div style="text-align:center; padding:0px 20px;">
+    <img src="/img/stormy.png">
+    <h5>With her jet black coat and constant movement, Stormy is impossible to photograph.</h5>
+</div>
 <p>
     Arrow, Stormy’s brother, was the more adventurous of the pair. An indoor-outdoor cat, Arrow preferred to spend his time outside, sprawled out in the afternoon sun on the front porch and then slinking about the bushes at night. Arrow would come in a few times a day for food, treats, and pets before heading back aside to explore his domain. While Stormy preferred to avoid Nacho and Rascal, Arrow was never afraid to remind those two who the real boss was.
 </p>
+
+<div style="text-align:center; padding:0px 20px;">
+    <img src="/img/arrow-and-jeff.png">
+    <h5>Look at those murder mittens.</h5>
+</div>
 
 <p>
     We had a blast watching this crew and enjoyed getting to know each of their unique personalities and quirks. 
 </p>
 
-<div class="gallery">
-    <div class="pic">
-        <img src="/img/erin-nacho-rascal.png">
-        <h5>Pet sitting?  More like sat-upon.</h5>
-    </div>
-    <div class="pic">
-        <img src="/img/stormy.png">
-        <h5>With her jet black coat and constant movement, Stormy is impossible to photograph.</h5>
-    </div>
-</div>
+
+
+
